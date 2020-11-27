@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vinkler_Robert_Lab4", "Vinkler_Robert_Lab4.csproj", "{2DE80C29-6A0D-4C13-9C6A-AB0B8B6CE5FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotModel1", "..\AutoLotModel1\AutoLotModel1.csproj", "{4789FB39-EBEF-4652-A859-B111436359BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DE80C29-6A0D-4C13-9C6A-AB0B8B6CE5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE80C29-6A0D-4C13-9C6A-AB0B8B6CE5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE80C29-6A0D-4C13-9C6A-AB0B8B6CE5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE80C29-6A0D-4C13-9C6A-AB0B8B6CE5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4789FB39-EBEF-4652-A859-B111436359BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4789FB39-EBEF-4652-A859-B111436359BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4789FB39-EBEF-4652-A859-B111436359BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4789FB39-EBEF-4652-A859-B111436359BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04637B55-71C5-4E26-928A-4CEB56EAF9A4}
+	EndGlobalSection
+EndGlobal
